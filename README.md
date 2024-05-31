@@ -46,7 +46,3 @@ The Application Layer contains the system logic and application-specific functio
 
 ## Contact
 For any queries or issues, please open an issue on the GitHub repository or contact the project maintainers.
-
----
-
-Happy coding!
